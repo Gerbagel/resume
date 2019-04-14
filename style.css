@@ -10,5 +10,10 @@ body {
 #img {
 	height: 90px;
 	width: 90px;
+	float: left;
 	border: solid 2px white;
+}
+
+.left {
+	float: left;
 }
