@@ -1,0 +1,14 @@
+/* CSS Document */
+
+body {
+	margin: 0px;
+	background-color: black;
+	color: white;
+	font-family: monospace;
+}
+
+#img {
+	height: 90px;
+	width: 90px;
+	border: solid 2px white;
+}
